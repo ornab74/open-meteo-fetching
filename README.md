@@ -1,4 +1,6 @@
-<img width="1646" height="602" alt="Screenshot 2026-04-26 7 56 28 AM" src="https://github.com/user-attachments/assets/84acda65-d63d-41f8-8049-9c0247067f32" /># Fetching from Open Meteo then displaying via Javascript via a Python Web Server On Replit.
+
+# Fetching from Open Meteo then displaying via Javascript via a Python Web Server On Replit.
+<img width="1646" height="602" alt="Screenshot 2026-04-26 7 56 28 AM" src="https://github.com/user-attachments/assets/84acda65-d63d-41f8-8049-9c0247067f32" />
 
 Doing this prework assignment I had a limited network device (not allowed to run RAW js on my device or api calls minus a giant docker headache and firewalls and cloud nightmare) .
 To accomodate my limited enviroment without capability to create files that call external sources (Think Android/ChromeOS Browser firewalled limited web only device ecosystem) 
