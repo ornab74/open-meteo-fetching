@@ -35,7 +35,7 @@ The buttons did not work at this point (kinda documenting the whole journey for 
 
 After a little more tinkering with the font color and figuring out why the open-meteo data wasn't appearing in the UI but only the console
 
-# to get informaiton on open meteo and API specs etc you can find that at their docs here.
+# Docs on how to talk to Open Meteo via open meteo API
 https://open-meteo.com/en/docs?hourly=relative_humidity_2m
 
 # Loading the Working Code from Github Into Replit's hosting service for secure sandbox development
