@@ -5,7 +5,7 @@
 
 Doing this prework assignment I had a limited network device (not allowed to run RAW js on my device or api calls minus a giant docker headache and firewalls and cloud nightmare) .
 To accomodate my limited enviroment without capability to create files that call external sources (Think Android/ChromeOS Browser firewalled limited web only device ecosystem) 
-I worked a few hours to go back in time , a years of old braincells kicked in to relearn some basic API calls in javascript, a button via css, and html codin.... Yes .. This took a lot longer without using AI (like 5000x longer i guess) .
+I worked a few hours to go back in time... Many years of old braincells that have some how forgotten and releaned this simple task a few times kicked in.. So lets relearn some basic API calls in javascript, a button via css, and html code to pull it into a website. Oh and replit , yes replit....... This took a while ..I knew it would a task. and This took a lot longer without using AI (like 5000x longer i guess). I've been spoiled since 2023 and early davinci 002.
 
 ( so in order to call out to APIs i have to santize the input coming from open meteo on this network due to security requirements and so on... 
 and it would just take 5000x longer than the requirements of this prework. weekend project... and i am working all week this week (allnighter on this)
