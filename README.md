@@ -26,14 +26,14 @@ Finally i got the website to load. yay. It was broken. and that's almost task co
 
 but i did have some nice data in my console.
 
-The buttons did not work at this point (kinda documenting the whole journey for everyone that follows my repos at this pioint to laugh with me along the way.
+The buttons did not work at this point (kinda documenting the whole journey for everyone that follows my repos at  so they can laugh with me about these bugs along the way.
  The first run was a mild success with some bugs.
  
 <img width="1843" height="1076" alt="image" src="https://github.com/user-attachments/assets/d43e669c-8ef4-4b70-9aab-30c3687e3b81" />
 
 # The final task Completion run
 
-After a little more tinkering with the font color and figuring out why the open-meteo data wasn't appearing in the UI but only the console
+After a little more tinkering with the font color and figuring out why the open-meteo data wasn't appearing in the UI but only the console.....  I had a working prototype.
 
 # Docs on how to talk to Open Meteo via open meteo API
 https://open-meteo.com/en/docs?hourly=relative_humidity_2m
