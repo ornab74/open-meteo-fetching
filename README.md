@@ -1,20 +1,22 @@
 
 # Fetching Data From Open Meteo Then Displaying Temp/Humidity Information Using Javascript via a Python Web Server Deployed On Replit
 <img width="1646" height="602" alt="Screenshot 2026-04-26 7 56 28 AM" src="https://github.com/user-attachments/assets/84acda65-d63d-41f8-8049-9c0247067f32" />
+<br>
 
 Doing this prework assignment I had a limited network device (not allowed to run RAW js on my device or api calls minus a giant docker headache and firewalls and cloud nightmare) .
 To accomodate my limited enviroment without capability to create files that call external sources (Think Android/ChromeOS Browser firewalled limited web only device ecosystem) 
 I worked a few hours to go back in time , a years of old braincells kicked in to relearn some basic API calls in javascript, a button via css, and html codin.... Yes .. This took a lot longer without using AI (like 5000x longer i guess) .
+
 ( so in order to call out to APIs i have to santize the input coming from open meteo on this network due to security requirements and so on... 
 and it would just take 5000x longer than the requirements of this prework. weekend project... and i am working all week this week (allnighter on this)
 
- So to save time i found a "workaround" solution. "just run it in the cloud" .... Yes.. Cloud hosting a prework.. Here we go.
+ to save time i found a "workaround" solution. "just run it in the cloud" .... Yes.. Cloud hosting a prework.. Here we go.
  SO i started it by Just coding everything by hand on github via the website editor Then I went to replit.com .. Pulled the code in via their import function from this repo
  (yea, you have to wiggle around to avoid a bunch of their AI Features and some UI wonkyness to turn it all off and just load a simple index.html/script.js
  and the templates for .replit files disappeared from previous replit versions i've used so i spent about 2-3 hours trying to figure out how to just load a simple index.html via replit.
  Well it's actually kinda cool how i found a solution to this problem without spending money (yes i had like idk a few dollars i spent on a nice VPN to work on code safely tonight via wireless connection)
  
-so i figured out how to make a .replit file and use their Nix based enviroment..
+ i figured out how to make a .replit file and use their Nix based enviroment..
 
  first i created a .replit file in the github repo.. In the .replit file i load in a recent python version. Second. I use that .replit file and create a python server.  finally i pointed the server at the required entrypoint "index.html"
 
