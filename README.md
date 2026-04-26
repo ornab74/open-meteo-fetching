@@ -66,7 +66,7 @@ then go to Preview (by typing preview into the same page via the Plus Button at 
 You can also click deploy to deploy the project to a domain name if you would like a domain to view the weather for Berlin Germany.
 
 ## Success Images
- ![<img width="1646" height="602" alt="Screenshot 2026-04-26 7 56 16 AM" src="https://github.com/user-attachments/assets/83ca0490-141b-4274-95f8-4bfa61659e42" />[main_33_cleaned.py](https://github.com/user-attachments/files/27098988/main_33_cleaned.py)
+[<img width="1646" height="602" alt="Screenshot 2026-04-26 7 56 16 AM" src="https://github.com/user-attachments/assets/83ca0490-141b-4274-95f8-4bfa61659e42" />
  
 <img width="1646" height="602" alt="Screenshot 2026-04-26 7 56 10 AM" src="https://github.com/user-attachments/assets/7e743447-c004-47b3-ac28-54dbec1952b8" />
 Uploading Screenshot 2026-04-26 7.56.28 AM.png…]()
